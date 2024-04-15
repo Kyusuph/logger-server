@@ -1,0 +1,14 @@
+{
+  "name": "monitafrica-sms-mediator",
+  "version": "1.0.0",
+  "description": "This is a mediator for forwarding sms related requests and configurations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaysoni C. Yusuph",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
